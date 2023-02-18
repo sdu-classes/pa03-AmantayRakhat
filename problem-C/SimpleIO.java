@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class SimplelO{
+public class SimpleIO{
     public static void main(String[] args) throws FileNotFoundException {
         File file=new File("f1.txt");
         PrintWriter p=new PrintWriter("f2.txt");
